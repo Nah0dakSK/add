@@ -1,0 +1,25 @@
+*{
+    background-color: lime;
+    text-align: center;
+    border-radius: 90px;
+}
+h1{
+    color:brown;
+    font-style: italic;
+}
+h2{
+    color: blue;
+    font-size: large;
+}
+p{
+    color: teal;
+}
+ul{
+    color: black;
+    font-size: 150%;
+    list-style: none;
+}
+aside{
+    color: maroon;
+    
+}
